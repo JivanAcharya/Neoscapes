@@ -9,6 +9,9 @@ You play as Neo in Neocscapes. It is trying to escape from the laboratory so its
 
 ## Developers
 [Arjan Sapkota](https://github.com/arjansapkota)
+
 [Girban Adhikari](https://github.com/adgirban)
+
 [Jivan Acharya](https://github.com/JivanAcharya)
+
 [Subarna Ghimire](https://github.com/subarna009)
